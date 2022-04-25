@@ -1,3 +1,2 @@
 This line added in master branch
 This line is added for doing a second commit in master branch.
-Line added to check diff command.
